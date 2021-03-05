@@ -1,0 +1,25 @@
+.logobanner {
+  height: 400px;
+  width: 100vw;
+}
+.carCards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ 
+}
+.carClass {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 5px solid #0a0a0a;
+  width: 33%;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+.carClass img image {
+  height: 200px;
+  
+}
+
